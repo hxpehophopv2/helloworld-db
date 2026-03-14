@@ -3,6 +3,7 @@
 ## UserType
 
 | Type | Description |
+| --- | --- |
 | customer | Customer of the system |
 | admin | Admin of the system |
 
